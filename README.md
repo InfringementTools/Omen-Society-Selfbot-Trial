@@ -1,6 +1,6 @@
 # OmenSociety Selfbot (Trial) 
 
-<strong>BEFORE DOING ANYTHING EXTRACT ALL!!</strong><br>JUST LAUNCH INSTALLER.BAT<br>JUST LAUNCH LAUNCH.BAT
+<strong>THIS IS ONLY A TRIAL!!</strong>
 
 # HO TO USE
     Open CMD/Console
